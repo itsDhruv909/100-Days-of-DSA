@@ -34,7 +34,7 @@ int main(){
     
     for(int i=0;i<a;i++){
         for(int j=0;j<b;j++){
-            printf("%d", arr3[i][j]);
+            printf("%d ", arr3[i][j]);
         }
             printf("\n");
         
@@ -42,4 +42,5 @@ int main(){
 
     return 0;
     
+
 }
